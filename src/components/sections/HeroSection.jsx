@@ -90,7 +90,7 @@ const HeroSection = () => {
         >
           <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-primary shadow-xl">
             <div className="absolute inset-0 bg-gradient-to-br from-primary to-blue-700 flex items-center justify-center text-white text-6xl font-bold">
-              <img src="/src/assets/images/Pfp.png" alt="Angelo Ripamonti" className="w-full h-full object-cover" />
+              <img src="/Pfp.png" alt="Angelo Ripamonti" className="w-full h-full object-cover" />
             </div>
           </div>
         </motion.div>

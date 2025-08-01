@@ -30,7 +30,7 @@ const AboutSection = () => {
             transition={{ duration: 0.6 }}
           >
             <div className="aspect-w-4 aspect-h-3 bg-gradient-to-br from-primary/80 to-blue-700/80 flex items-center justify-center p-10">
-              <img src="/src/assets/images/Pfp.png" alt="Angelo Ripamonti" className="w-full h-full object-cover" />
+              <img src="/Pfp.png" alt="Angelo Ripamonti" className="w-full h-full object-cover" />
             </div>
           </motion.div>
 
