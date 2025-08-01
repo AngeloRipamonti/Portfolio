@@ -92,7 +92,7 @@ const ProjectsSection = () => {
       technologies: ['React', 'TailwindCSS', 'Framer Motion'],
       category: 'frontend',
       github: 'https://github.com/AngeloRipamonti/Portfolio',
-      demo: null,
+      demo: "portfolio.mind-sharing.it",
     },
   ];
 
