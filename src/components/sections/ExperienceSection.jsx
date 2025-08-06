@@ -5,35 +5,11 @@ const ExperienceSection = () => {
   const experiences = [
     {
       id: 1,
-      role: 'Backend Developer',
-      company: 'OceanHub',
+      role: 'Sviluppatore Freelance',
+      company: 'Freelance',
       period: 'Maggio 2024 - Presente',
-      description: 'Sviluppo di bot discord utilizzando Node.js, MongoDB, TS, MySQL e sistemista. Implementazione di funzionalità backend e ottimizzazione delle prestazioni.',
-      technologies: ['TypeScript', 'Node.js', 'MongoDB', 'MySQL', "Linux", "Git"],
-    },
-    {
-      id: 2,
-      role: 'Backend Developer',
-      company: 'Christian Sighieri Pub',
-      period: 'Giugno 2024 - Presente',
-      description: 'Creazione di bot discord tramite l\'utilizzo di TypeScript. Creazione di database sqlite. Implementazione di funzionalità backend e ottimizzazione delle prestazioni.',
-      technologies: ['TypeScript', "SQLite", "Git"],
-    },
-    {
-      id: 3,
-      role: 'FullStack Developer',
-      company: 'HyperStudios',
-      period: 'Luglio 2024 - Febbraio 2025',
-      description: 'Sviluppo di un bot discord per gestire i report da parte degl\'utenti e la creazione di una dashboard per esso. Implementazione di funzionalità frontend, backend e database.',
-      technologies: ['HTML', 'CSS', 'JavaScript', 'Node.js', "TypeScript", 'SQLite', "MongoDB", "Linux", "Git", "TailwindCSS"],
-    },
-        {
-      id: 4,
-      role: 'Backend Developer',
-      company: 'SkyForce',
-      period: 'Marzo 2025 - Presente',
-      description: 'Sviluppo di bot discord.',
-      technologies: ["TypeScript", "MongoDB", "Linux", "Git"],
+      description: 'Sviluppo di Siti Web.\nSviluppo di Bot per Discord e Telegram.',
+      technologies: ['TypeScript', 'Node.js', 'MongoDB', 'MySQL', "Linux", "Git", "SQLite", "HTML", "CSS", "JavaScript"],
     }
   ];
 
