@@ -3,9 +3,9 @@ import {
   FaHtml5, FaCss3Alt, FaJs, FaReact, FaNodeJs, FaPython,
   FaGitAlt, FaDatabase, FaNpm, FaBootstrap, FaJava,
   FaPhp,
-  FaLinux
+  FaLinux,
 } from 'react-icons/fa';
-import { SiTypescript, SiTailwindcss, SiMongodb, SiExpress, SiCplusplus } from 'react-icons/si';
+import { SiTypescript, SiTailwindcss, SiMongodb, SiExpress, SiCplusplus, SiKotlin } from 'react-icons/si';
 
 const SkillsSection = () => {
   const skills = [
@@ -27,6 +27,7 @@ const SkillsSection = () => {
     { name: 'React', icon: <FaReact className="text-[#61DAFB]" />, level: 57 },
     { name: 'TypeScript', icon: <SiTypescript className="text-[#3178C6]" />, level: 70 },
     { name: 'MongoDB', icon: <SiMongodb className="text-[#47A248]" />, level: 75 },
+    { name: 'Kotlin', icon: <SiKotlin className="text-[#a508ff]" />, level: 15 },
   ];
 
   const container = {
